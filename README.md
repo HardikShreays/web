@@ -1,4 +1,4 @@
 web
 ===
 
-HTML, CSS, JavaScript, Python automation materials
+HTML, CSS, JavaScript and Python material for automation
